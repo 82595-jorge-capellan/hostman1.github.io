@@ -1,6 +1,7 @@
 import {loadPage} from "./main-page.js";
 import {loadMenu} from "./menu.js";
 import {loadContact} from "./contact.js";
+import * as Particles from 'particles.mis.js';
 
 
 
